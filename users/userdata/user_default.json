@@ -1,0 +1,684 @@
+{
+  "accounts": [
+    {
+      "id": 0,
+      "name": "Grundwert unbebautes Grundstück",
+      "number": "0200",
+      "favorite": false
+    },
+    {
+      "id": 1,
+      "name": "Grundwert bebautes Grundstück",
+      "number": "0210",
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "name": "Gebäude",
+      "number": "0300",
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "name": "Maschinen",
+      "number": "0400",
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "name": "Betriebs- und Geschäftsausstattung",
+      "number": "0600",
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "name": "Büromaschinen, EDV-Anlagen",
+      "number": "0620",
+      "favorite": false
+    },
+    {
+      "id": 6,
+      "name": "Pkw",
+      "number": "0630",
+      "favorite": false
+    },
+    {
+      "id": 7,
+      "name": "Lkw",
+      "number": "0640",
+      "favorite": false
+    },
+    {
+      "id": 8,
+      "name": "geringwertige Wirtschaftsgüter",
+      "number": "0680",
+      "favorite": false
+    },
+    {
+      "id": 9,
+      "name": "kumulierte AfA",
+      "number": "0690",
+      "favorite": false
+    },
+    {
+      "id": 10,
+      "name": "Rohstoffvorrat",
+      "number": "1100",
+      "favorite": false
+    },
+    {
+      "id": 11,
+      "name": "Hilfsstoffe",
+      "number": "1300",
+      "favorite": false
+    },
+    {
+      "id": 12,
+      "name": "Vorrat Heizöl",
+      "number": "1360",
+      "favorite": false
+    },
+    {
+      "id": 13,
+      "name": "Vorrat Verpackungsmaterial",
+      "number": "1500",
+      "favorite": false
+    },
+    {
+      "id": 14,
+      "name": "HW-Vorrat",
+      "number": "1600",
+      "favorite": false
+    },
+    {
+      "id": 15,
+      "name": "Lieferforderungen",
+      "number": "2000",
+      "favorite": false
+    },
+    {
+      "id": 16,
+      "name": "Besitzwechsel",
+      "number": "2050",
+      "favorite": false
+    },
+    {
+      "id": 17,
+      "name": "sonstige Forderungen",
+      "number": "2300",
+      "favorite": false
+    },
+    {
+      "id": 18,
+      "name": "gewährte Darlehen",
+      "number": "2350",
+      "favorite": false
+    },
+    {
+      "id": 19,
+      "name": "Vorsteuer",
+      "number": "2500",
+      "favorite": false
+    },
+    {
+      "id": 20,
+      "name": "Vorsteuer 10%",
+      "number": "2501",
+      "favorite": false
+    },
+    {
+      "id": 21,
+      "name": "Vorsteuer aus i.g. Erwerb 20%",
+      "number": "2510",
+      "favorite": false
+    },
+    {
+      "id": 22,
+      "name": "Vorsteuer aus i.g. Erwerb 10%",
+      "number": "2511",
+      "favorite": false
+    },
+    {
+      "id": 23,
+      "name": "Einfuhrumsatzsteuer",
+      "number": "2520",
+      "favorite": false
+    },
+    {
+      "id": 24,
+      "name": "Kassa",
+      "number": "2700",
+      "favorite": false
+    },
+    {
+      "id": 25,
+      "name": "Forderungen Kreditkarte",
+      "number": "2780",
+      "favorite": false
+    },
+    {
+      "id": 26,
+      "name": "Forderungen Bankomat",
+      "number": "2790",
+      "favorite": false
+    },
+    {
+      "id": 27,
+      "name": "Bank",
+      "number": "2800",
+      "favorite": false
+    },
+    {
+      "id": 28,
+      "name": "PSK",
+      "number": "2810",
+      "favorite": false
+    },
+    {
+      "id": 29,
+      "name": "Barverkehr mit Banken",
+      "number": "2870",
+      "favorite": false
+    },
+    {
+      "id": 30,
+      "name": "aktive Rechnungsabgrenzung",
+      "number": "2900",
+      "favorite": false
+    },
+    {
+      "id": 31,
+      "name": "Rückstellungen",
+      "number": "3000",
+      "favorite": false
+    },
+    {
+      "id": 32,
+      "name": "Bankschulden",
+      "number": "3110",
+      "favorite": false
+    },
+    {
+      "id": 33,
+      "name": "Darlehen",
+      "number": "3150",
+      "favorite": false
+    },
+    {
+      "id": 34,
+      "name": "Verbindlichkeiten Kreditkarte",
+      "number": "3180",
+      "favorite": false
+    },
+    {
+      "id": 35,
+      "name": "Verbindlichkeiten Bankomat",
+      "number": "3190",
+      "favorite": false
+    },
+    {
+      "id": 36,
+      "name": "Lieferverbindlichkeiten",
+      "number": "3300",
+      "favorite": false
+    },
+    {
+      "id": 37,
+      "name": "Schuldwechsel",
+      "number": "3380",
+      "favorite": false
+    },
+    {
+      "id": 38,
+      "name": "Umsatzsteuer",
+      "number": "3500",
+      "favorite": false
+    },
+    {
+      "id": 39,
+      "name": "Umsatzsteuer 10%",
+      "number": "3501",
+      "favorite": false
+    },
+    {
+      "id": 40,
+      "name": "Erwerbsteuer 20 %",
+      "number": "3510",
+      "favorite": false
+    },
+    {
+      "id": 41,
+      "name": "Erwerbsteuer 10 %",
+      "number": "3511",
+      "favorite": false
+    },
+    {
+      "id": 42,
+      "name": "USt-Zahllast",
+      "number": "3520",
+      "favorite": false
+    },
+    {
+      "id": 43,
+      "name": "Verbindlichkeiten Finanzamt",
+      "number": "3540",
+      "favorite": false
+    },
+    {
+      "id": 44,
+      "name": "Verbindlichkeiten Krankenkassa",
+      "number": "3600",
+      "favorite": false
+    },
+    {
+      "id": 45,
+      "name": "Verbindlichkeiten Gemeinde",
+      "number": "3610",
+      "favorite": false
+    },
+    {
+      "id": 46,
+      "name": "sonstige Verbindlichkeiten",
+      "number": "3700",
+      "favorite": false
+    },
+    {
+      "id": 47,
+      "name": "Verbindlichkeiten Mitarbeiter",
+      "number": "3850",
+      "favorite": false
+    },
+    {
+      "id": 48,
+      "name": "passive Rechnungsabgrenzung",
+      "number": "3900",
+      "favorite": false
+    },
+    {
+      "id": 49,
+      "name": "HW-Erlöse",
+      "number": "4000",
+      "favorite": false
+    },
+    {
+      "id": 50,
+      "name": "HW-Erlöse (10% USt)",
+      "number": "4001",
+      "favorite": false
+    },
+    {
+      "id": 51,
+      "name": "Erlöse aus i.g. Lieferungen 0%",
+      "number": "4010",
+      "favorite": false
+    },
+    {
+      "id": 52,
+      "name": "Exporterlöse 0%",
+      "number": "4015",
+      "favorite": false
+    },
+    {
+      "id": 53,
+      "name": "Erlösberichtigungen",
+      "number": "4400",
+      "favorite": false
+    },
+    {
+      "id": 54,
+      "name": "Kundenskonti",
+      "number": "4410",
+      "favorite": false
+    },
+    {
+      "id": 55,
+      "name": "Erlöse Anlagenverkauf",
+      "number": "4600",
+      "favorite": false
+    },
+    {
+      "id": 56,
+      "name": "Erträge aus Auflösung von Rückstellungen",
+      "number": "4700",
+      "favorite": false
+    },
+    {
+      "id": 57,
+      "name": "Mieterträge",
+      "number": "4800",
+      "favorite": false
+    },
+    {
+      "id": 58,
+      "name": "Provisionsverträge",
+      "number": "4820",
+      "favorite": false
+    },
+    {
+      "id": 59,
+      "name": "Mahnspesenvergütungen",
+      "number": "4890",
+      "favorite": false
+    },
+    {
+      "id": 60,
+      "name": "Eigenverbrauch",
+      "number": "4900",
+      "favorite": false
+    },
+    {
+      "id": 61,
+      "name": "HW-Einsatz",
+      "number": "5010",
+      "favorite": false
+    },
+    {
+      "id": 62,
+      "name": "Rohstoffverbrauch",
+      "number": "5100",
+      "favorite": false
+    },
+    {
+      "id": 63,
+      "name": "Energieaufwand",
+      "number": "5630",
+      "favorite": false
+    },
+    {
+      "id": 64,
+      "name": "Lieferantenskonti",
+      "number": "5880",
+      "favorite": false
+    },
+    {
+      "id": 65,
+      "name": "Löhne",
+      "number": "6000",
+      "favorite": false
+    },
+    {
+      "id": 66,
+      "name": "Gehälter",
+      "number": "6200",
+      "favorite": false
+    },
+    {
+      "id": 67,
+      "name": "gesetzlicher Sozialaufwand",
+      "number": "6500",
+      "favorite": false
+    },
+    {
+      "id": 68,
+      "name": "lohn- und gehaltsabhängige Abgaben",
+      "number": "6600",
+      "favorite": false
+    },
+    {
+      "id": 69,
+      "name": "Kommunalsteuer",
+      "number": "6620",
+      "favorite": false
+    },
+    {
+      "id": 70,
+      "name": "AfA",
+      "number": "7010",
+      "favorite": false
+    },
+    {
+      "id": 71,
+      "name": "AfA für geringwertige Wirtschaftsgüter",
+      "number": "7030",
+      "favorite": false
+    },
+    {
+      "id": 72,
+      "name": "Steuern",
+      "number": "7100",
+      "favorite": false
+    },
+    {
+      "id": 73,
+      "name": "Reparaturen",
+      "number": "7200",
+      "favorite": false
+    },
+    {
+      "id": 74,
+      "name": "Beleuchtungsaufwand",
+      "number": "7230",
+      "favorite": false
+    },
+    {
+      "id": 75,
+      "name": "Ausgangsfrachten",
+      "number": "7300",
+      "favorite": false
+    },
+    {
+      "id": 76,
+      "name": "Pkw-Betriebsaufwand",
+      "number": "7320",
+      "favorite": false
+    },
+    {
+      "id": 77,
+      "name": "Lkw-Betriebsaufwand",
+      "number": "7330",
+      "favorite": false
+    },
+    {
+      "id": 78,
+      "name": "Telefongebühren",
+      "number": "7380",
+      "favorite": false
+    },
+    {
+      "id": 79,
+      "name": "Portogebühren",
+      "number": "7390",
+      "favorite": false
+    },
+    {
+      "id": 80,
+      "name": "Mietaufwand",
+      "number": "7400",
+      "favorite": false
+    },
+    {
+      "id": 81,
+      "name": "Provisionen",
+      "number": "7540",
+      "favorite": false
+    },
+    {
+      "id": 82,
+      "name": "Büromaterial",
+      "number": "7600",
+      "favorite": false
+    },
+    {
+      "id": 83,
+      "name": "Werbeaufwand",
+      "number": "7650",
+      "favorite": false
+    },
+    {
+      "id": 84,
+      "name": "Versicherungsaufwand",
+      "number": "7700",
+      "favorite": false
+    },
+    {
+      "id": 85,
+      "name": "Rechts- und Beratungsaufwand",
+      "number": "7750",
+      "favorite": false
+    },
+    {
+      "id": 86,
+      "name": "Spesen des Geldverkehrs",
+      "number": "7790",
+      "favorite": false
+    },
+    {
+      "id": 87,
+      "name": "Buchwert abgegangener Anlagen",
+      "number": "7820",
+      "favorite": false
+    },
+    {
+      "id": 88,
+      "name": "Aufwand aus Vorperioden",
+      "number": "7840",
+      "favorite": false
+    },
+    {
+      "id": 89,
+      "name": "Aufwand für Schadenersatzzahlungen",
+      "number": "7850",
+      "favorite": false
+    },
+    {
+      "id": 90,
+      "name": "sonstiger Aufwand",
+      "number": "7890",
+      "favorite": false
+    },
+    {
+      "id": 91,
+      "name": "Zinserträge",
+      "number": "8100",
+      "favorite": false
+    },
+    {
+      "id": 92,
+      "name": "Verzugszinsertrag",
+      "number": "8130",
+      "favorite": false
+    },
+    {
+      "id": 93,
+      "name": "Zinsaufwand",
+      "number": "8280",
+      "favorite": false
+    },
+    {
+      "id": 94,
+      "name": "Verzugszinsaufwand",
+      "number": "8300",
+      "favorite": false
+    },
+    {
+      "id": 95,
+      "name": "Mahnspesen",
+      "number": "8310",
+      "favorite": false
+    },
+    {
+      "id": 96,
+      "name": "außerordentliche Erträge",
+      "number": "8400",
+      "favorite": false
+    },
+    {
+      "id": 97,
+      "name": "außerordentliche Aufwände",
+      "number": "8450",
+      "favorite": false
+    },
+    {
+      "id": 98,
+      "name": "Eigenkapital",
+      "number": "9000",
+      "favorite": false
+    },
+    {
+      "id": 99,
+      "name": "Privat",
+      "number": "9600",
+      "favorite": false
+    },
+    {
+      "id": 100,
+      "name": "EBK",
+      "number": "9800",
+      "favorite": false
+    },
+    {
+      "id": 101,
+      "name": "SBK",
+      "number": "9850",
+      "favorite": false
+    }
+  ],
+  "topics": [
+    {
+      "name": "laufende Geschäftsfälle",
+      "records": [
+        {
+          "id": 0,
+          "level": 5,
+          "question": "Wie verbucht man eine Ausgangsrechnung?",
+          "info": {
+            "name": "Ausgangsrechnung",
+            "year": 2,
+            "page": 187
+          },
+          "accounts": {
+            "soll": [15],
+            "haben": [49, 38]
+          }
+        },
+        {
+          "id": 1,
+          "level": 5,
+          "question": "Wie verbucht man eine Eingangsrechnung?\nInfo: Handelsware",
+          "info": {
+            "name": "Eingangsrechnung",
+            "year": 2,
+            "page": 187
+          },
+          "accounts": {
+            "soll": [61, 19],
+            "haben": [36]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Skonti",
+      "records": [
+        {
+          "id": 2,
+          "level": 5,
+          "question": "Wie verbucht man einen Lieferantenskonti?",
+          "info": {
+            "name": "Lieferantenskonti",
+            "year": 3,
+            "page": 189
+          },
+          "accounts": {
+            "soll": [36],
+            "haben": [64, 19]
+          }
+        },
+        {
+          "id": 3,
+          "level": 5,
+          "question": "Wie verbucht man einen Kundenskonti?",
+          "info": {
+            "name": "Kundenskonti",
+            "year": 3,
+            "page": 189
+          },
+          "accounts": {
+            "soll": [54, 38],
+            "haben": [15]
+          }
+        }
+      ]
+    }
+  ]
+}
